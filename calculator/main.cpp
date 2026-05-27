@@ -1,4 +1,6 @@
 class Cal {
+public:
+	int a, b;
 
 };
 
